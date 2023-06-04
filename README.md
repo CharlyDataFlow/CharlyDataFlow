@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Charles! 👋
 
-<!--
-**charlesljy/charlesljy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Experience:
+Senior Data Scientist at KPMG Services, specialising in architecting and building end-to-end data and ml pipelines using AWS and Azure cloudservices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Education:
+Master of Science in Business Analytics (Distinction), Imperial College London
+Bachelor of Arts in Economics with Minor in Mathematics (Highest Distinction), Nanyang Technological University
+
+Technical Skills:
+Python | PySpark | SQL | AWS | ETL Pipelines | Machine Learning | Data Modeling | Tableau | Docker | Kubernetes | Linux
+
+Certifications:
+AWS Certified Solutions Architect Professional
+Neo4J Graph Data Science Certificate
+AWS Certified Machine Learning Specialty
+Tableau Certified Specialist
